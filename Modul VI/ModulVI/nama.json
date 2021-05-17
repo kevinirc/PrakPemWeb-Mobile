@@ -1,0 +1,67 @@
+[
+    {
+        "name":"Kevin",
+        "address":"Jalan K"
+    },
+    
+    {
+        "name":"Immanuel",
+        "address":"Jalan I"
+    },
+    
+    {
+        "name":"Rui",
+        "address":"Jalan R"
+    },
+    
+    {
+        "name":"Costa",
+        "address":"Jalan C"
+    },
+    
+    {
+        "name":"Kirc",
+        "address":"Jalan A"
+    },
+    
+    {
+        "name":"Irc",
+        "address":"Jalan B"
+    },
+    
+    {
+        "name":"Kev",
+        "address":"Jalan C"
+    },
+
+    {
+        "name":"Rci",
+        "address":"Jalan D"
+    },
+
+    {
+        "name":"Kevirc",
+        "address":"Jalan E"
+    },
+
+    {
+        "name":"rcikev",
+        "address":"Jalan F"
+    },
+
+    {
+        "name":"test",
+        "address":"Jalan G"
+    },
+
+    {
+        "name":"set",
+        "address":"Jalan H"
+    },
+
+    {
+        "name":"sot",
+        "address":"Jalan I"
+    }
+    
+    ]
