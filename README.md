@@ -16,4 +16,6 @@ Modul V : Modul mengenai react native, dimana diminta untuk mampu membuat sebuah
 Modul VI : Modul mengenai search flatlist pada react native, dimana diminta untuk mampu membuat sebuah program aplikasi mobile dengan fitur 
 search dalam program tersebut dengan menggunakan react native
 
+Responsi : Pada responsi diminta untuk membuat sebuah web-profile suatu usaha atau perusahaan yang ada di Palangka Raya. Responsi dikerjakan
+secara berkelompok. Berikut adalah link responsi https://github.com/MuhammadArifiin/responsi-pemwebmobile1
  
